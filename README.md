@@ -1,6 +1,8 @@
-# The Ultimate YouTube Video Integration Solution for Your Website
+# YouTube Embed Code Generator – Embed YouTube Video Easily
 
 In today's digital landscape, incorporating video content into your website is essential for engaging your audience. The [youtube embed code generator](https://youtube-embed-code-generator.com) and [youtube embed](https://youtube-embed-code-generator.com) tools provide comprehensive solutions for seamlessly integrating YouTube videos into any website platform. Our [youtube embed generator](https://youtube-embed-code-generator.com) supports all major website builders and platforms, ensuring compatibility across the board.
+
+![YouTube Embed Code Generator](https://github.com/martin-ellison/youtube-embed-code-generator/blob/main/ss.png)
 
 ## Specialized Tools for Different Video Types
 
